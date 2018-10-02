@@ -3,7 +3,7 @@ def denmon(num):
     i = 0
     while i < len(num):
         if int(num[i])%2 == 0:
-            z.append()
+            z.append(num[i])
 
         i += 2
 
